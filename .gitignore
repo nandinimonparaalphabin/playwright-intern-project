@@ -6,6 +6,9 @@ blob-report/
 playwright/.cache/
 playwright/.auth/
 
+# Environment variables
+.env
+
 # Allow Playwright snapshot folders
 !tests/**/**-snapshots/
 !tests/**/**-snapshots/**

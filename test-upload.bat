@@ -1,0 +1,3 @@
+@echo off
+set TESTDINO_TOKEN=trx_development_071ccb24859d3cdfe632b8e4403ea49a7ac2db157f1ff54eceb9777c30faac5d
+tdpw upload playwright-report --verbose
